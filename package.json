@@ -1,0 +1,23 @@
+{
+  "name": "persian-day",
+  "version": "1.0.0",
+  "description": "Convert day name or number to persian day name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezakeshvari/persian-day.git"
+  },
+  "keywords": [
+    "persian",
+    "day"
+  ],
+  "author": "Alireza Keshvari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirezakeshvari/persian-day/issues"
+  },
+  "homepage": "https://github.com/alirezakeshvari/persian-day#readme"
+}

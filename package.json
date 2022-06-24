@@ -1,6 +1,6 @@
 {
   "name": "persian-day",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert day name or number to persian day name",
   "main": "index.js",
   "scripts": {

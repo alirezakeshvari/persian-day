@@ -1,6 +1,6 @@
 {
   "name": "persian-day",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Convert day name or number to persian day name",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "persian",
-    "day"
+    "day",
+    "week",
+    "date"
   ],
   "author": "Alireza Keshvari",
   "license": "ISC",

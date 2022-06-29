@@ -1,4 +1,4 @@
-# Day Converter
+# Day Converter `v1.2.0`
 
 ## install :
 
@@ -49,4 +49,18 @@ Output :
 
 ```
 شنبه
+```
+
+You can get today's date using `today()` method :
+
+```JS
+const { today } = require("persian-day");
+
+today();
+```
+
+Output :
+
+```
+پنجشنبه
 ```

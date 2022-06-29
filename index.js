@@ -1,4 +1,8 @@
 const convertDayNumber = require("./ConvertDayNumber");
 const convertDayName = require("./ConvertDayName");
 
-module.exports = { convertDayNumber, convertDayName };
+const today = () => {
+  return convertDayNumber(new Date().getDay());
+};
+
+module.exports = { convertDayNumber, convertDayName, today };
